@@ -1,4 +1,6 @@
-# Discord Homepage Clone
+# Discord Homepage Clone 
+
+**View the Clone: [Discord Clone](https://discordtwin.netlify.app/)**
 
 This project is a clone of the homepage of Discord, a popular communication platform for gamers. It's built using HTML and CSS and aims to replicate the Discord homepage's design and layout.
 
